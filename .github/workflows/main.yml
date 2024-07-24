@@ -49,4 +49,8 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
+<<<<<<< HEAD
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+=======
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Atualize para o PAT criado
+>>>>>>> ce0060a (Updates solipa365)

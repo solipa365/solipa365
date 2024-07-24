@@ -16,7 +16,11 @@ Sou estudante na Escola Profissional do Fundão, focado em Programação e Comun
 Estou sempre em busca de desafios e oportunidades para aprender e crescer, então... <br>
 😉se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
 
+<<<<<<< HEAD
 <div>
+=======
+<div align="center">
+>>>>>>> ce0060a (Updates solipa365)
     <a href="https://solipa365-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/solipa365/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.facebook.com/solipa365/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
@@ -41,7 +45,10 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer, entã
 
 <div align="center">
   <h2>🐍 Minhas contribuições 🐍</h2>
+<<<<<<< HEAD
   <br>
+=======
+>>>>>>> ce0060a (Updates solipa365)
   <img alt="Cobra Comendo Minhas Contribuições" src="https://raw.githubusercontent.com/solipa365/solipa365/output/github-contribution-grid-snake.svg" />
 </div>
 
@@ -52,4 +59,10 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer, entã
   <sub style="color: white;">Feito com amor por <a href="https://solipa365-portfolio.vercel.app/" target="_blank" style="color: #8FE2D9">@solipa365</a>. 🩵</sub>  
   <img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+
+<div style="text-align: right;"><img src="./src/img/Logo.png" alt="Descrição da imagem" width="200"/></div>
+>>>>>>> ce0060a (Updates solipa365)
