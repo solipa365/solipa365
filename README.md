@@ -52,5 +52,3 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer, entã
   <img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
 
 </div>
-
-<div style="text-align: right;"><img src="./src/img/Logo.png" alt="Descrição da imagem" width="200"/></div>
