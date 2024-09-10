@@ -35,8 +35,9 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer, entã
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
-  <img alt="Cobra Comendo Minhas Contribuições" src="https://raw.githubusercontent.com/seu-usuario/output/main/dist/github-contribution-grid-snake.svg" />
-</div></br>
+  <img alt="Cobra Comendo Minhas Contribuições" src="https://raw.githubusercontent.com/solipa365/output/main/dist/github-contribution-grid-snake.svg" />
+</div>
+</br>
 
 <div align="center">
 
