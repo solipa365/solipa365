@@ -34,11 +34,6 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer, entã
 </div></br>
 
 <div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <img alt="Cobra Comendo Minhas Contribuições" src="https://raw.githubusercontent.com/solipa365/output/main/dist/github-contribution-grid-snake.svg" />
-</div></br>
-
-<div align="center">
 
   <sub style="color: white;">Feito com amor por <a href="https://www.solipa365.com/" target="_blank" style="color: #8FE2D9">@solipa365</a>. 🩵</sub>  
   <img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
