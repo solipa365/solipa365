@@ -5,14 +5,13 @@
 <p align="left"> 
 🌱 Natrural de Fundão, Portugal 📍 19 anos & futuro <strong>👨🏼‍💻 Dev Full Stack</strong>.
 
-Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento Full Stack; e com muito interesse nas áreas de Front-end, Web e Ui Design. 
+Sou Chief  Executive Officer (CEO) da ArtLife Innovation e fundador das startups TecnoDev e CodeCraft. <br>
+Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento Full Stack, com muito interesse nas áreas de Front-end, Web e UI Design.
 
-Busco continuamente pelo aprendizado e aprimoramento para alcançar resultados positivos e contribuir para o sucesso da equipe e da organização em que atuo.
-Estou empenhado em aprimorar minhas habilidades como desenvolvedor. <br> 
-Sou estudante na Escola Profissional do Fundão, focado em Programação e Comunicação.
+Estudo na Escola Profissional do Fundão, focado em Programação e Comunicação, e estou sempre em busca de aprendizado e aprimoramento para alcançar resultados positivos e contribuir para o sucesso da equipe e da organização em que atuo. 
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer, então... <br>
-😉se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
+Estou constantemente à procura de novos desafios e oportunidades para aprender e crescer, então... <br>
+Se estiveres interessado em colaborar ou compartilhar ideias, não hesites em entrar em contato comigo! 😉
 
 <div align="center">
     <a href="https://www.solipa365.com/" target="_blank"><img src="https://img.shields.io/badge/website-8FE2D9?style=for-the-badge&logo=About.me&logoColor=000000" target="_blank"></a>
