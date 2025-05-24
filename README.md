@@ -2,18 +2,6 @@
 
 <h1 align="center"><span style="color: #FFFFFF;"> < <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/gif/Hi.gif" height="30" width="30">  Hello World!, Meu nome é <strong>António Solipa</strong>  /> </span></h1> <br>
 
-<p align="left"> 
-  🌱 Natrural de Fundão, Portugal 📍 19 anos & futuro <strong>👨🏼‍💻 Dev Full Stack</strong>.
-
-  Sou Chief  Executive Officer (CEO) da ArtLife Innovation e fundador das startups TecnoDev e CodeCraft. <br>
-  Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento Full Stack, com muito interesse nas áreas de Front-end, Web e UI Design.
-
-  Estudo na Escola Profissional do Fundão, focado em Programação e Comunicação, e estou sempre em busca de aprendizado e aprimoramento para alcançar resultados positivos e contribuir para o sucesso da equipe e da organização em que atuo. 
-
-  Estou constantemente à procura de novos desafios e oportunidades para aprender e crescer, então... <br>
-  Se estiveres interessado em colaborar ou compartilhar ideias, não hesites em entrar em contato comigo! 😉
-</p> <br>
-
 <div align="center"> 
     <a href="https://www.solipa365.com/" target="_blank"><img src="https://img.shields.io/badge/-WebSite-8FE2D9?style=flat-square&logo=About.me&logoColor=000000"/></a>
     <a href="https://github.com/solipa365" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
@@ -29,7 +17,25 @@
     <a href="mailto:me@solipa365@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div> </br>
 
-<div align="center"><img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/gif/GradientLine.gif" align="center" style="width: 100%" /></div> </br>
+<p align="left"> 
+
+<img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/img/computer-illustration.png" alt="Ilustração de um Computador" min-width="400px" max-width="400px" width="400px" align="right"> <br>
+
+  🌱 Natrural de Fundão, Portugal 📍 19 anos & futuro <strong>👨🏼‍💻 Dev Full Stack</strong>.
+
+  Sou Chief  Executive Officer (CEO) da ArtLife Innovation e fundador das startups TecnoDev e CodeCraft. <br>
+  Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de <br> 
+  Desenvolvimento Full Stack, com muito interesse nas áreas de Front-end, Web e UI Design.
+
+  Estudo na Escola Profissional do Fundão, focado em Programação e Comunicação, e estou sempre em <br> 
+  busca de aprendizado e aprimoramento para alcançar resultados positivos e contribuir para o sucesso <br> 
+  da equipe e da organização em que atuo. 
+
+  Estou constantemente à procura de novos desafios e oportunidades para aprender e crescer, então... <br>
+  Se estiveres interessado em colaborar ou compartilhar ideias, não hesites em entrar em contato comigo! 😉
+</p> <br>
+
+<div align="center"><img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/gif/GradientLine.gif" align="center" style="width: 100%" /></div> </br><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
