@@ -14,7 +14,7 @@
     <a href="https://www.youtube.com/@solipa365/" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
     <a href="https://www.twitch.tv/solipa365/" target="_blank"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/></a>
     <a href="https://medium.com/@solipa365" target="_blank"><img src="https://img.shields.io/badge/-Medium-66cdaa?style=flat-square&logo=Medium&logoColor=white"/></a>
-    <a href="mailto:me@solipa365@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:solipa365@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div> </br>
 
 <p align="left"> 
@@ -32,7 +32,7 @@
   da equipe e da organização em que atuo. 
 
   Estou constantemente à procura de novos desafios e oportunidades para aprender e crescer, então... <br>
-  Se estiveres interessado em colaborar ou compartilhar ideias, não hesites em entrar em contato comigo! 😉
+  Se estiveres interessado em colaborar ou compartilhar ideias, não hesites em entrar em contato comigo!
 </p> <br>
 
 <div align="center"><img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/gif/GradientLine.gif" align="center" style="width: 100%" /></div> </br><br>
