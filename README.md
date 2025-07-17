@@ -91,6 +91,16 @@
 </div> </br>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=solipa365&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=10" height="230" alt="GitHub Trophy"/>
+</div> <br>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=solipa365&theme=react-dark&hide_border=true" alt="Activity graph">
+  </a>
+</div> <br>
+
+<div align="center">
 
   <sub style="color: white;">Feito com amor por <a href="https://www.solipa365.com/" target="_blank" style="color: #8FE2D9">@solipa365</a> 🩵</sub>  
   <img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
