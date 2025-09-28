@@ -43,58 +43,58 @@
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/html5.svg" height="50" alt="html5 logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/html5.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/css3.svg" height="50" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/css3.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/javascript.svg" height="50" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/javascript.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/typescript.svg" height="50" alt="typescript logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/typescript.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/react.svg" height="50" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/react.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/nodejs.svg" height="50" alt="nodejs logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/nodejs.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/nextjs.svg" height="50" alt="nextjs logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/nextjs.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/python.svg" height="50" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/arduino.svg" height="50" alt="arduino logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/arduino.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/cplusplus.svg" height="50" alt="cplusplus logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/cplusplus.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/csharp.svg" height="50" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/csharp.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/astro.svg" height="50" alt="astro logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/astro.svg" height="40" alt="astro logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/php.svg" height="50" alt="php logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/php.svg" height="40" alt="php logo"  />
   <img width="12" />
 </div> <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/amazonwebservices.svg" height="50" alt="amazonwebservices logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/amazonwebservices.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/git.svg" height="50" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/git.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/figma.svg" height="50" alt="figma logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/figma.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/canva.svg" height="50" alt="canva logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/canva.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/firebase.svg" height="50" alt="firebase logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/firebase.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/blender.svg" height="50" alt="blender logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/blender.svg" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/unity.svg" height="50" alt="unity logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/unity.svg" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/illustrator.svg" height="50" alt="illustrator logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/illustrator.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/premierepro.svg" height="50" alt="premierepro logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/premierepro.svg" height="40" alt="premierepro logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/photoshop.svg" height="50" alt="photoshop logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/photoshop.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/vue.svg" height="50" alt="vue logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/vue.svg" height="40" alt="vue logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/ejs.svg" height="50" alt="ejs logo"  />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/ejs.svg" height="40" alt="ejs logo"  />
   <img width="12" />
 </div> <br>
 
