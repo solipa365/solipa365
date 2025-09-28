@@ -59,6 +59,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/python.svg" height="50" alt="python logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/arduino.svg" height="50" alt="arduino logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/cplusplus.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/csharp.svg" height="50" alt="csharp logo"  />
@@ -89,8 +91,6 @@
   <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/premierepro.svg" height="50" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/photoshop.svg" height="50" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/arduino.svg" height="50" alt="arduino logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/skills/vue.svg" height="50" alt="vue logo"  />
   <img width="12" />
