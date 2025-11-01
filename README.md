@@ -24,7 +24,6 @@
 
   🌱 Natrural de Fundão, Portugal 📍 20 anos & futuro <strong>👨🏼‍💻 Dev Full Stack</strong>.
 
-  Sou Chief  Executive Officer (CEO) da ArtLife Innovation e fundador das startups TecnoDev e CodeCraft. <br>
   Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de <br>
   Desenvolvimento Full Stack, com muito interesse nas áreas de Front-end, Web e UI Design.
 
