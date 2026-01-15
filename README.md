@@ -44,7 +44,7 @@
 
 <div align="">
   <a href="/src/page/GitHub_Stats.md" target="_blank"><img src="https://img.shields.io/badge/GitHub_Stats-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/></a>
-  <a href="/src/page/Início" target="_blank"><img src="https://img.shields.io/badge/Início-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/></a>
+  <a href="/src/page/Início.md" target="_blank"><img src="https://img.shields.io/badge/Início-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/></a>
   <a href="/src/page/Sobre_Mim.md" target="_blank"><img src="https://img.shields.io/badge/Sobre_Mim-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/></a>
   <a href="/src/page/Missão_e_Visão.md" target="_blank"><img src="https://img.shields.io/badge/Miss%C3%A3o_e_Vis%C3%A3o-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/></a>
   <a href="/src/page/Objetivos_Profissionais.md" target="_blank"><img src="https://img.shields.io/badge/Objetivos_Profissionais-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/></a>
