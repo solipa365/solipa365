@@ -1,0 +1,3 @@
+Se você descobrir um problema de segurança neste repositório, envie-o por meio do <a href="https://hackerone.com/github" target="_blank">GitHub Security Bug Bounty</a>
+
+Obrigado por ajudar a tornar o GitHub Actions seguro para todos.
