@@ -1,0 +1,57 @@
+# Ação do GitHub para gerar um gráfico de contribuições com uma cobra devorando suas contribuições.
+
+name: Generate Snake
+
+# Controla quando a ação será executada. Esta ação é executada a cada 24 horas.
+
+on:
+  schedule:
+    # A cada 24 horas às 7h17.
+    - cron: "17 7 * * *"
+
+  # Este comando permite executar a ação automaticamente a partir da guia Ações.
+  workflow_dispatch:
+
+  # Sobre mudanças
+  push:
+    branches:
+      - main
+
+# A sequência de execuções neste fluxo de trabalho é a seguinte:
+jobs:
+  # Este fluxo de trabalho contém uma única tarefa chamada "build" (construir).
+  build:
+    # O tipo de corredor que o trabalho irá executar.
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+    # As etapas representam uma sequência de tarefas que serão executadas como parte do trabalho.
+    steps:
+
+      # Verifica o repositório em $GITHUB_WORKSHOP, para que seu trabalho possa acessá-lo.
+      - uses: actions/checkout@v2
+
+      # Gera a cobra
+      - uses: Platane/snk/svg-only@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # As próximas duas linhas geram os arquivos em uma ramificação chamada "output". Isso evita que a ramificação principal fique sobrecarregada.
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Exibe o status da compilação. Isso facilita a depuração (caso haja algum problema).
+      - run: git status
+
+      # Envie as imagens para o ramo de saída.
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # O ramo de saída que mencionamos acima
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
