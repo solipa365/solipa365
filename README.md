@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/img/banner.png"> <br>
 
-<h1 align="center"><span style="color: #FFFFFF;"> < <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/gif/hi.gif" height="30" width="30"> <img src="https://raw.githubusercontent.com/solipa365/solipa365/master/src/gif/world.gif" height="30" width="30"> Olá mundo!, Meu nome é <strong>António Solipa</strong> /> </span></h1> <br>
+<h1 align="center"><span style="color: #FFFFFF;"> < Olá mundo!, Meu nome é <strong>António Solipa</strong> /> </span></h1> <br>
 
 <div align="center"> 
   <a href="https://solipa365.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/WebSite-8FE2D9?style=flat-square&logo=About.me&logoColor=black"/></a>
